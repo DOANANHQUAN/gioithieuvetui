@@ -1,0 +1,86 @@
+html{
+    font-family: sans-serif;
+}
+#Nihon_mei{
+    font-family: 'Yu Mincho';
+    width: 20%;
+}
+.ask_name{
+    text-align: center;
+}
+.ask_name .leme_ask{
+    font-size: 20px;
+}
+.ask_name select{
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    border: 1px solid grey;
+    border-radius: 7px;
+    outline: 1px;
+    margin-top: 10px;
+}
+.ask_name input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid grey;
+    width: 100%;
+    text-align: center;
+    font-size: medium;
+    border-radius: 5px;
+}
+.ask_name .quan_ask_name{
+    font-size: 25px;
+}
+.ask_name button{
+    width: 100%;
+    height: 33px;
+    border: 1px solid grey;
+    outline: none;
+    border-radius: 7px;
+    background-color: coral;
+    color: white;
+    font-size: 15px;
+}
+.ask_name button:hover{
+    background-color: rgb(216, 83, 35);
+}
+.Hobby_list{
+    margin-left: 27px;
+    list-style: none;
+}
+.contact_list{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.user_have_quest input{
+    width: 100%;
+    text-align: center;
+    font-size: medium;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+}
+.user_have_quest button{
+    width: 100%;
+    font-size: 20px;
+    height: 31px;
+    background-color: cornflowerblue;
+    border: 1px solid grey;
+    border-radius: 5px;
+    color:rgb(254, 255, 255);
+}
+.user_have_quest button:hover{
+    background-color: rgb(61, 125, 243);
+}
+input{
+    font-family: sans-serif, 'Yu Mincho';
+}
+button:hover{
+    cursor: pointer;
+}
+.ask_name select:hover{
+    cursor: pointer;
+}
