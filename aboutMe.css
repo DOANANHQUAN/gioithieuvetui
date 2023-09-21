@@ -76,7 +76,7 @@ a{
     background-color: rgb(61, 125, 243);
 }
 input{
-    font-family: sans-serif, 'Yu Mincho';
+    font-family: sans-serif, 'Yu Mincho'， 'Microsoft JhengHei';
 }
 button:hover{
     cursor: pointer;
